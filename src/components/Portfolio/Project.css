@@ -1,0 +1,51 @@
+/* src/components/Portfolio/Portfolio.css */
+.page-section-work {
+  margin: 25px 0;
+  padding: 10px 0;
+}
+
+.portfolio-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.project {
+  border: 5px solid var(--secondary);
+  background-color: var(--primary);
+  color: var(--tertiary);
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  box-sizing: border-box; /* Ensure padding is included in width calculations */
+}
+
+/* Full width for the first project (Surf Report) */
+.project.full-width {
+  flex-basis: 100%;
+}
+
+/* Half width for the remaining projects */
+.project.half-width {
+  flex-basis: calc(50% - 0.5rem); /* Subtract half the gap to account for spacing */
+}
+
+.project-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.project-links {
+  margin-top: 10px;
+}
+
+.project-links a {
+  color: var(--secondary);
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.project-links a:hover {
+  text-decoration: underline;
+}

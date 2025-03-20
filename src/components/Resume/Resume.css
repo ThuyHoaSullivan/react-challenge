@@ -1,0 +1,52 @@
+/* src/components/Resume/Resume.css */
+.page-section-resume {
+    margin: 25px 0;
+    padding: 10px 0;
+    text-align: left;
+  }
+  
+  .page-section-resume h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: var(--primary);
+  }
+  
+  .resume-download {
+    margin-bottom: 30px;
+  }
+  
+  .resume-download a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: var(--secondary);
+    color: var(--tertiary);
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .resume-download a:hover {
+    background-color: var(--primary);
+    color: var(--secondary);
+  }
+  
+  .proficiencies {
+    margin-bottom: 20px;
+  }
+  
+  .proficiencies h3 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    color: var(--primary);
+  }
+  
+  .proficiencies ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .proficiencies li {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    color: var(--tertiary);
+  }

@@ -1,0 +1,65 @@
+/* src/components/AboutMe/AboutMe.css */
+.page-section-about {
+  margin: 25px 0;
+  padding: 10px 0;
+  display: flex;
+  flex-direction: column; /* Stack children vertically */
+  align-items: flex-start; /* Align everything to the left */
+}
+
+.page-section-about h2 {
+  text-align: left; /* Align the heading to the left */
+  padding-right: 15px;
+  font-size: 2rem; /* Set a fixed size to match other headings */
+  line-height: 1.1;
+  margin-bottom: 20px; /* Add space below the heading */
+}
+
+.about-content {
+  display: flex;
+  flex-direction: column; /* Stack avatar and bio vertically */
+  align-items: flex-start; /* Align everything to the left */
+  gap: 1.5rem; /* Add space between avatar and bio */
+}
+
+.developer-avatar {
+  width: 150px; /* Adjust size as needed */
+  height: 150px; /* Adjust size as needed */
+  border-radius: 50%; /* Makes the image circular */
+  object-fit: cover; /* Ensures the image fits well */
+  border: 3px solid var(--secondary); /* Optional: Add a border */
+}
+
+.bio {
+  text-align: left; /* Align bio text to the left */
+}
+
+.bio p {
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+
+/* src/components/AboutMe/AboutMe.css */
+/* .page-section-about {
+    margin: 25px 0;
+    padding: 10px 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: space-between;
+  }
+  
+  .page-section-about h2 {
+    flex: 0 0 20%;
+    text-align: left; /* Adjust alignment as needed */
+    /* padding-right: 15px;
+    border-right: 4px solid var(--primary);
+    font-size: 4vw;
+    line-height: 1.1;
+  }
+  
+  .page-section-about div {
+    flex: 0 0 77%;
+  } */ 
