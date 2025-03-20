@@ -33,16 +33,21 @@ Check out the live version of the portfolio:
 ## Screenshots
 
 ### Homepage
-![Homepage](./screenshots/homepage.png)
+![Homepage](https://drive.google.com/file/d/1noeYl7OWjiIloJ7AaeoGx4HhBpmzaw_1/view?usp=sharing)
+
+### AboutMe Page
+![Resume](https://drive.google.com/file/d/154TR5-Ij2MoDB5wSjwZ9WgFzcBdCRXif/view?usp=sharing)
 
 ### Portfolio Section
-![Portfolio](./screenshots/portfolio.png)
+![Portfolio](https://drive.google.com/file/d/1tLXtg--XP4aP-FvtsPr_z3j-lyJn0EDe/view?usp=sharing)
 
 ### Contact Form
-![Contact](./screenshots/contact.png)
+![Contact](https://drive.google.com/file/d/1uDH7AVyw4bENzeE9lnYsuIgioaj_KmR8/view?usp=sharing)
 
 ### Resume Page
-![Resume](./screenshots/resume.png)
+![Resume](https://drive.google.com/file/d/1sBzRBme_DLQKL7HsByPCV-wyc5rMnZY9/view?usp=sharing)
+
+
 
 ---
 
