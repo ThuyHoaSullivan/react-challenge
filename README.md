@@ -5,7 +5,7 @@ This is my personal portfolio website built with **React** as part of a challeng
 ## Live Demo
 
 Check out the live version of the portfolio:  
-[Portfolio Live Demo](https://your-site-name.netlify.app)
+[Portfolio Live Demo](https://react-challenge-portfolio-site.netlify.app)
 
 ---
 
